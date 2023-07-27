@@ -1,0 +1,33 @@
+{
+	"name": "object-data-mapper",
+	"version": "1.0.4",
+	"description": "data-mapper: A powerful npm package for effortless object data mapping and transformation between structures",
+	"main": "index.js",
+	"keywords": [
+		"data",
+		"mapping",
+		"transform",
+		"data transformation",
+		"data mapping",
+		"object mapping",
+		"nested object mapping",
+		"data manipulation",
+		"data structure",
+		"property mapping",
+		"property transformation",
+		"npm",
+		"node",
+		"javascript",
+		"library",
+		"utility",
+		"package",
+		"data handling",
+		"error handling",
+		"npm package"
+	],
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Raja",
+	"license": "MIT"
+}
